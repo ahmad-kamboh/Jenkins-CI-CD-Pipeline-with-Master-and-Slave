@@ -4,7 +4,8 @@ This project demonstrates a complete CI/CD pipeline using Jenkins (master-slave 
 
 ---
 
-![Image](https://github.com/user-attachments/assets/82420bdb-59f4-4185-a1fd-24a1f7143c9c)
+![Image](https://github.com/user-attachments/assets/e3eac16a-7291-4703-842b-f178ae9cc63d)
+
 
 ## CI/CD Overview  
 CI (Continuous Integration) and CD (Continuous Delivery/Deployment) ensure fast, automated, and reliable software releases by compiling, testing, packaging, and deploying code seamlessly.
