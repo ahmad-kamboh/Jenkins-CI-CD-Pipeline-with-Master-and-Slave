@@ -4,6 +4,8 @@ This project demonstrates a complete CI/CD pipeline using Jenkins (master-slave 
 
 ---
 
+![Image](https://github.com/user-attachments/assets/82420bdb-59f4-4185-a1fd-24a1f7143c9c)
+
 ## CI/CD Overview  
 CI (Continuous Integration) and CD (Continuous Delivery/Deployment) ensure fast, automated, and reliable software releases by compiling, testing, packaging, and deploying code seamlessly.
 
@@ -32,6 +34,8 @@ Make sure you have the following tools/accounts setup to replicate the project.
 
 ---
 
+![Image](https://github.com/user-attachments/assets/599b624b-dddb-45ce-a508-4079738e58dd)
+
 ## EC2 Instance Configuration  
 Two EC2 instances are used — one for Jenkins Master, one for Jenkins Slave.
 
@@ -53,6 +57,8 @@ Perform the following tasks using Maven:
 - `mvn package` – Packages the code into a `.war` file.
 
 ---
+
+![Image](https://github.com/user-attachments/assets/d7a67c1d-af9f-4dea-81be-6d21ac385934)
 
 ## Jenkins Jobs Configuration  
 Three jobs created in Jenkins:
