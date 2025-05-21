@@ -34,7 +34,8 @@ Make sure you have the following tools/accounts setup to replicate the project.
 
 ---
 
-![Image](https://github.com/user-attachments/assets/599b624b-dddb-45ce-a508-4079738e58dd)
+![Image](https://github.com/user-attachments/assets/82420bdb-59f4-4185-a1fd-24a1f7143c9c)
+
 
 ## EC2 Instance Configuration  
 Two EC2 instances are used — one for Jenkins Master, one for Jenkins Slave.
