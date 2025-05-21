@@ -1,0 +1,21 @@
+# Maven
+target/
+*.war
+*.jar
+
+# Jenkins
+secrets/
+workspace/
+*.log
+
+# System
+.DS_Store
+*.swp
+*.swo
+*.bak
+.idea/
+.vscode/
+
+# Docker
+*.env
+.env
